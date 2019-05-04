@@ -1,0 +1,7 @@
+{
+  "name": "Ionic4GoogleMapsSDK",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
