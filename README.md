@@ -3,6 +3,7 @@ Google Maps SDK Cordova Plugin in Ionic 4 Application
 
 
 Install Ionic Native Google Maps Cordova and Ionic Native Plugin
+
 $ npm install @ionic-native/core@beta @ionic-native/google-maps@beta
 $ ionic cordova plugin add cordova-plugin-googlemaps --variable API_KEY_FOR_ANDROID="YOUR_API_KEY_HERE" --variable API_KEY_FOR_IOS="YOUR_API_KEY_HERE"
 
