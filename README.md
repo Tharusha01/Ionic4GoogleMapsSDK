@@ -26,5 +26,5 @@ initializeApp() {
   }
 
 
-running command
+running command >>>
 $ ionic cordova run browser
